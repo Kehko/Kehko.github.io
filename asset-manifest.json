@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c679471.css",
+    "main.js": "/static/js/main.a7a8cdb2.js",
+    "static/js/346.485bc364.chunk.js": "/static/js/346.485bc364.chunk.js",
+    "static/css/975.6eceb33a.chunk.css": "/static/css/975.6eceb33a.chunk.css",
+    "static/js/975.40d30d53.chunk.js": "/static/js/975.40d30d53.chunk.js",
+    "static/css/907.db26b7c0.chunk.css": "/static/css/907.db26b7c0.chunk.css",
+    "static/js/907.20557232.chunk.js": "/static/js/907.20557232.chunk.js",
+    "static/css/716.f18a27c9.chunk.css": "/static/css/716.f18a27c9.chunk.css",
+    "static/js/716.5b0ab092.chunk.js": "/static/js/716.5b0ab092.chunk.js",
+    "static/js/641.fd54c857.chunk.js": "/static/js/641.fd54c857.chunk.js",
+    "static/js/80.d4fa4151.chunk.js": "/static/js/80.d4fa4151.chunk.js",
+    "static/media/vision.png": "/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Iphone-spinner-2.gif": "/static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
+    "static/media/Avengers_logo.png": "/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/index.html",
+    "main.3c679471.css.map": "/static/css/main.3c679471.css.map",
+    "main.a7a8cdb2.js.map": "/static/js/main.a7a8cdb2.js.map",
+    "346.485bc364.chunk.js.map": "/static/js/346.485bc364.chunk.js.map",
+    "975.6eceb33a.chunk.css.map": "/static/css/975.6eceb33a.chunk.css.map",
+    "975.40d30d53.chunk.js.map": "/static/js/975.40d30d53.chunk.js.map",
+    "907.db26b7c0.chunk.css.map": "/static/css/907.db26b7c0.chunk.css.map",
+    "907.20557232.chunk.js.map": "/static/js/907.20557232.chunk.js.map",
+    "716.f18a27c9.chunk.css.map": "/static/css/716.f18a27c9.chunk.css.map",
+    "716.5b0ab092.chunk.js.map": "/static/js/716.5b0ab092.chunk.js.map",
+    "641.fd54c857.chunk.js.map": "/static/js/641.fd54c857.chunk.js.map",
+    "80.d4fa4151.chunk.js.map": "/static/js/80.d4fa4151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c679471.css",
+    "static/js/main.a7a8cdb2.js"
+  ]
+}

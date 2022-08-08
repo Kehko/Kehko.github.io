@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmarvel=self.webpackChunkmarvel||[]).push([[346],{5346:function(e,n,r){r.r(n);var t=r(184);n.default=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("h2",{style:{fontSize:"60px"},children:"404 not found"})})}}}]);
+//# sourceMappingURL=346.485bc364.chunk.js.map
